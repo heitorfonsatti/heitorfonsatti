@@ -51,7 +51,7 @@
 ###
 
 
-![snake gif](https://github.com/heitorfonsatti/heitorfonsatti/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/heitorfonsatti/heitorfonsatti/output/snake.svg" alt="Snake animation" />
 
 
 ###
