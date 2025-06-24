@@ -50,8 +50,4 @@
 
 ###
 
-
-<img src="https://raw.githubusercontent.com/heitorfonsatti/heitorfonsatti/output/snake.svg" alt="Snake animation" />
-
-
 ###
