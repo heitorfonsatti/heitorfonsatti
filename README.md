@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hi! I'm Heitor Fonsatti, a Junior Java Developer passionate about backend development and building robust applications using the Spring Framework.<br><br>🎯 I'm currently focused on improving my Java skills through courses and hands-on projects.<br>🌍 My goal is to work for international companies and grow as a global developer.<br>📚 I'm always learning and open to new technologies and challenges.<br>💼 Actively seeking new job opportunities.<br>🗣️ I speak advanced English, which enables me to collaborate in multicultural teams.</p>
+<p align="left">👋 Hi! I'm Heitor Fonsatti, a Junior Java Developer passionate about backend development and building robust applications using the Spring Framework.<br><br>🎯 I'm currently focused on improving my Java skills through courses and hands-on projects.<br>🌍 My goal is to work for international companies and grow as a global developer.<br>📚 I'm always learning and open to new technologies and challenges.<br>💼 Actively seeking new job opportunities.<br></p>
 
 ###
 
